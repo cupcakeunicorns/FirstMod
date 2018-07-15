@@ -1,0 +1,10 @@
+﻿{
+   "Name": "FirstMod",
+   "Author": "CupcakeUnicorns",
+   "Version": "1.0.0",
+   "Description": "Meh",
+   "UniqueID": "cupcakeunicorns.firstmod",
+   "EntryDll": "FirstMod.dll",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": []
+}
